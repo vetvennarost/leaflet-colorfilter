@@ -1,5 +1,5 @@
 # leaflet.colorfilter
-A simple and lightweight [Leaflet](https://leafletjs.com/) plugin to apply CSS color filter on map tiles.
+A simple and lightweight [Leaflet](https://leafletjs.com/) plugin by [Cláudio T. Kawakani](https://github.com/xtk93x) to apply CSS color filter on map tiles.
 
 ![sidebyside](https://raw.githubusercontent.com/vetvennarost/leaflet.colorfilter/master/readme-files/sidebyside.png)
 
@@ -148,22 +148,5 @@ let rightColorFilter = [
 This project is licensed under the MIT License. (c) 2018, Cláudio T. Kawakani.
 
 ## Updates
-#### 2018.11
-- v1.2.5: great performance improvement. Very noticeable in mobile.
-
-#### 2018.10
-- Added the new function updateFilter, thanks to [AndreasSchmid1](https://github.com/AndreasSchmid1) request.
-- Now it is possible to start the colorFilter without the filter parameter.
-- Package added to NPM and Bower.
-
-#### 2018.09.26
-- Accepted by Leaflet in the [plugins list](https://leafletjs.com/plugins.html#tileimage-display) :).
-
-#### 2018.09.24
-- Plugin renamed to Leaflet.TileLayer.ColorFilter.
-
-#### 2018.09.23
-- Changed from object to array of strings, because the filter order matters. Moreover, the same filter can be used more than once.
-
-#### 2018.09.20
-- Plugin created.
+#### 2021.05.17
+- Plugin uploaded from it's [author](https://github.com/xtk93x).
