@@ -1,7 +1,7 @@
 # leaflet.colorfilter
 A simple and lightweight [Leaflet](https://leafletjs.com/) plugin to apply CSS color filter on map tiles.
 
-![sidebyside](https://raw.githubusercontent.com/xtk93x/Leaflet.TileLayer.ColorFilter/master/readme-files/sidebyside.png)
+![sidebyside](https://raw.githubusercontent.com/vetvennarost/leaflet.colorfilter/master/readme-files/sidebyside.png)
 
 ## Demos
 - [Make your own filter.](https://xtk93x.github.io/Leaflet.TileLayer.ColorFilter.updateFilter/)
